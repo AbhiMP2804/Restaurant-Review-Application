@@ -75,6 +75,7 @@ cd Restaurant-Review-Application
 ```bash
 mvn clean install
 mvn spring-boot:run
+
 ** Backend runs at http://localhost:8080
 ```
 
